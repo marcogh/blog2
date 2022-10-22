@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Begin experimenting"
+date:   2015-05-09 09:55:10
+categories: ducati
+---
+Link interessanti:
+
+* [pareggiamento corpi farfallati][pareggiamento corpi farfallati]
+* [xdf multistrada 1000][xdf multistrada 1000]
+* [impulsive\_duc thread][impulsive\_duc thread]
+* [guzzidiag][guzzidiag]
+
+[pareggiamento corpi farfallati]: http://www.bikeboy.org/ducati2vthrottleb.html
+[xdf multistrada 1000]: http://motoxdf.wikia.com/wiki/%28MM_5AMHW610%29_Ducati_MTS1000_/_M620_/_S4R
+[impulsive\_duc thread]: http://www.ducati.ms/forums/77-sport-classic/384482-request-aid-sc1000-riders-5am-ecu-custom-maps-ducatidiag.html
+[guzzidiag]: http://www.von-der-salierburg.de/download/GuzziDiag/

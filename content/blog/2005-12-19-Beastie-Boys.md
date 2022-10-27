@@ -6,23 +6,27 @@ categories: music
 ---
 # Sabotage!
 
-## la partenza
+## La partenza
 
-io, matteo, jordan e federico partiamo alle 18 circa da brescia x
+Io, Matteo, Jordan e Federico partiamo alle 18 circa da brescia x
 raggiungere il mazdapalace. appena in auto pero' matteo ci dice: forse il
-concerto e' stato spostato ad assago. giro di telefonate agli amici
-internauti e abbiamo ben 4 conferme: al mazdapalace han fatto il sold-out e
-quindi il concerto dirottato al forum di assago.
+concerto è stato spostato ad Assago.
 
-al forum riusciamo a parcheggiare e a entrare mentre il rapper
-\<nonricordoilnome\> (che fa da spalla ai BB) ha gia' iniziato il suo show, 
+Giro di telefonate agli amici internauti e abbiamo ben 4 conferme: al
+Mazdapalace han fatto il sold-out e quindi il concerto dirottato al forum di
+Assago.
+
+Al forum riusciamo a parcheggiare e a entrare mentre il rapper
+'''nonricordoilnome''' (che fa da spalla ai BB) ha gia' iniziato il suo show, 
 e assistiamo al suo rap, che cerca spesso interazione con il pubblico.
 
-## scratch selvaggio
+## Scratch selvaggio
 
-alle 21.30 circa, si spengono le luci, e su due megaschermi al plasma posti
+Alle 21.30 circa, si spengono le luci, e su due megaschermi al plasma posti
 dietro al palco appaiono i BB che gridano:"che cazzo fai, che cazzo fai,
-che cazzo fai". raccontano 3 cazzate con parole in italiano dentro, e
+che cazzo fai".
+
+Raccontano 3 cazzate con parole in italiano dentro, e
 invitano mastermind ad andare sul palco. ci rendiamo conto allora che quello
 che va su maxischermo e' in diretta, e mastermind sta arrivando davvero!
 

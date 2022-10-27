@@ -1,6 +1,5 @@
 <template>
   <v-app>
-
     <v-navigation-drawer app>
     </v-navigation-drawer>
 
@@ -20,22 +19,9 @@
     <v-main>
 
       <!-- Provides the application the proper gutter -->
-      <v-container fluid>
-
-        <v-card
-          class="mx-auto"
-          width="400"
-          prepend-icon="mdi-home"
-        >
-          <template v-slot:title>
-            Hello from Vuetify!
-          </template>
-          <v-card-text>
-            Prova
-          </v-card-text>
-        </v-card>
-        <!-- If using vue-router -->
-        <router-view></router-view>
+      <v-container>
+        <!-- <content-doc/> -->
+        <NuxtPage />
       </v-container>
     </v-main>
 

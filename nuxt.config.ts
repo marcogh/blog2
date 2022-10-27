@@ -1,5 +1,4 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
-// import { defineNuxtConfig } from 'nuxt'
 import vuetify from 'vite-plugin-vuetify'
 export default defineNuxtConfig({
   css: ['vuetify/styles'], // vuetify ships precompiled css, no need to import sass
@@ -20,5 +19,6 @@ export default defineNuxtConfig({
             vuetify()
         ))
     }
-  ]
+  ],
+  content: {}
 })

@@ -6,15 +6,14 @@ const { data } = useAsyncData('blogPostList', () => {
 
 <template>
   <v-card
-    v-for="post, idx in data"
-    :key="idx" :title="post.title"
+    v-for="post in data"
+    :key="post._path" :title="post.title"
     elevation="4"
     class="mb-4"
   >
     <v-card-text>
-  <pre>
-    {{post}}
-  </pre>
+      <nuxt-link :to="post._path">link</nuxt-link>
+      {{post.excerpt}}
     </v-card-text>
   </v-card>
   <!--

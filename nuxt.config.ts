@@ -20,5 +20,9 @@ export default defineNuxtConfig({
         ))
     }
   ],
-  content: {}
+  content: {
+    highlight: {
+      theme: 'github-light'
+    }
+  }
 })

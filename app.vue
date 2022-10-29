@@ -20,7 +20,6 @@
 
       <!-- Provides the application the proper gutter -->
       <v-container>
-        <!-- <content-doc/> -->
         <NuxtPage />
       </v-container>
     </v-main>
